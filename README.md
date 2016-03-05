@@ -30,6 +30,7 @@
     });
 
 ### 水平效果截图
+不太会做动态gif图片，等后面学习下在放上来
 
 ![图片](./horizontal.jpeg)
 **Desinger by:** *ggx* 
