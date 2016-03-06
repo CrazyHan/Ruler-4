@@ -14,7 +14,7 @@
 该控件有3个属性：
 * defaultValue表示默认尺子现在在多少刻度上；
 * direction有两个值1.horizontal表示水平放置尺子，2.vertical表示垂直放置尺子；
-* endValue 表示尺子的最大刻度到多少，其实刻度从0开始
+* endValue 表示尺子的最大刻度到多少，起始刻度从0开始
 
 ***
 
