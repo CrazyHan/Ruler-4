@@ -3,6 +3,8 @@
 ###开发工具
 工具：Android Studio
 ### 使用方法
+使用git clone 的方式将本项目拉到本地磁盘上，之后再android studio中将项目中的ruler_lib模块导入到你的项目中
+再在主模块中加上`compile project(':ruler_lib')`即可使用
     <com.ggx.ruler_lib.RulerView
       android:id="@+id/rv"
       android:layout_width="match_parent"
