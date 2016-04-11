@@ -17,13 +17,13 @@
         android:layout_marginTop="100dp"
         android:text=""/>
 
-    <com.ggx.ruler.RulerView
+    <com.ggx.ruler_lib.RulerView
         android:id="@+id/rv"
         android:layout_width="match_parent"
-        android:layout_height="60dp"
+        android:layout_height="80dp"
+        app:defaultValue="60"
         app:direction="horizontal"
-        android:layout_centerInParent="true"
-        app:defaultValue="170"
-        app:endValue="250"></com.ggx.ruler.RulerView>
+        app:endValue="100"
+        android:layout_centerInParent="true"/>
 
 </RelativeLayout>
